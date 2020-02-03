@@ -1,1 +1,1 @@
-# Hamsterovina
+Zkouskovy repozitar pro testy s githubem
